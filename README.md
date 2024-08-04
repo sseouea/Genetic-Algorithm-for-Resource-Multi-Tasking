@@ -3,7 +3,7 @@
 
 ## Mechanics
 - Data Structure
-- Implemetation of Crossover, Mutation and Selection
+- Design & Implemetation of Crossover, Mutation and Selection
 
 </br>
 
